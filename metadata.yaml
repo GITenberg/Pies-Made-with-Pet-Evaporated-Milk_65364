@@ -1,11 +1,16 @@
 _repo: Pies-Made-with-Pet-Evaporated-Milk_65364
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65364-h/images/cover.jpg
 creator:
   author:
     agent_name: Pet Milk Company. Home Economics Department
     gutenberg_agent_id: '53298'
     url: http://www.gutenberg.org/2009/agents/53298
 description: Promotional booklet.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65364#Pies-Made-with-Pet-Evaporated-Milk
 gutenberg_issued: '2021-05-17'
 gutenberg_type: Text
 identifiers:
