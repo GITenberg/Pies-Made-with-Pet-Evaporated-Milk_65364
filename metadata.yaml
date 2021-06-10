@@ -1,0 +1,25 @@
+_repo: Pies-Made-with-Pet-Evaporated-Milk_65364
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pet Milk Company. Home Economics Department
+    gutenberg_agent_id: '53298'
+    url: http://www.gutenberg.org/2009/agents/53298
+description: Promotional booklet.
+gutenberg_issued: '2021-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pies'
+- !lcsh 'Cooking (Dairy products)'
+- !lcsh 'Cookbooks'
+- !lcsh 'Cooking (Evaporated milk)'
+- !lcc 'TX'
+- GITenberg
+title: Pies Made with Pet Evaporated Milk
+url: http://www.gutenberg.org/ebooks/65364
